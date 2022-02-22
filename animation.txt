@@ -1,0 +1,18 @@
+@keyframes slider {
+    0% {
+        margin-left:0;
+    }
+    33% {
+        margin-left:-100vw;
+    }
+    66% {
+        margin-left:-200vw;
+    }
+    100% {
+        margin-left:0;
+    }
+}
+
+
+
+
