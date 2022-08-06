@@ -2,7 +2,7 @@
 
 <img src="assets/images/awax-gif.gif" alt="Video Projeto" width="100%" height="500">
 
-> 🔎 Clone de uma página web já existente para a prática de HTML e CSS <br>
+> 🔎 Clone de uma página web já existente para a prática de HTML e CSS. <br>
 🗔 Confira a aplicação: https://klausmorotti.github.io/projeto-awax/ <br>
 
 ## 📄 Explicação
@@ -17,9 +17,10 @@ O site tem no total 1 página, sendo ela
 
 ## 🎯 Etapas do projeto
 
-✔️ Organização dos arquivos do projeto: Imagens, fontes, variáveis CSS </br>
-✔️ Planejamento da estrutura parte por parte conforme eu desenvolvia o projeto </br> 
-✔️ Adicionando responsividade ao projeto
+✔️ Organização dos arquivos do projeto: Imagens, fontes, variáveis CSS. </br>
+✔️ Planejamento da estrutura parte por parte conforme eu desenvolvia o projeto. </br> 
+✔️ Adicionando responsividade ao projeto. </br>
+✔️ Projeto finalizado.
 
 ## 🚀 Tecnologias
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a>
