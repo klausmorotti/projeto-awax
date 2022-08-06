@@ -1,8 +1,19 @@
-# PROJETO AWAX
+<h1 align="center">PROJETO AWAX</h1>
+
+<img src="assets/images/awax-gif.gif" alt="Video Projeto" width="100%" height="500">
+
+> 🔎 Clone de uma página web já existente para a prática de HTML e CSS <br>
+🗔 Confira a aplicação: https://klausmorotti.github.io/projeto-awax/ <br>
 
 ## 📄 Explicação
 
 Página web simples desenvolvida como um de meus primeiros projetos com HTML e CSS, o projeto awax me trouxe muitos desafios e a maior parte de minha evolução com HTML e CSS.
+
+## 📁 Páginas
+
+O site tem no total 1 página, sendo ela
+
+- **Página principal:** A página principal que exibe todo o conteúdo.
 
 ## 🎯 Etapas do projeto
 
